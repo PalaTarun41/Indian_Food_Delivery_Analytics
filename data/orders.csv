@@ -1,1 +1,11 @@
-
+order_id,customer_id,restaurant_id,delivery_partner_id,order_datetime,delivery_time_minutes,order_amount,payment_method,order_status
+101,1,11,501,2024-06-10 13:45,32,420,UPI,Delivered
+102,2,12,502,2024-06-10 14:10,25,280,Card,Delivered
+103,3,13,503,2024-06-10 18:22,40,560,Cash,Delivered
+104,1,11,501,2024-06-11 12:30,28,300,UPI,Delivered
+105,4,14,504,2024-06-11 20:45,50,780,UPI,Cancelled
+106,5,12,505,2024-06-12 09:10,22,190,Card,Delivered
+107,6,15,501,2024-06-12 22:15,60,900,UPI,Delivered
+108,7,16,506,2024-06-13 14:55,35,350,UPI,Delivered
+109,2,17,502,2024-06-13 17:30,30,450,Card,Delivered
+110,8,11,503,2024-06-14 11:05,27,250,UPI,Delivered 
